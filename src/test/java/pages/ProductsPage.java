@@ -13,9 +13,10 @@ public class ProductsPage {
     this.driver = driver;
   }
 
-  public void isProductsPageDisplayed() {
+  public boolean isProductsPageDisplayed() {
     WebElement productsTitle = driver.findElement(By.cssSelector("[data-test='title']"));
     Assert.assertTrue(productsTitle.isDisplayed());
+    return true;
   }
 
   public void sortProductsHighToLow() {

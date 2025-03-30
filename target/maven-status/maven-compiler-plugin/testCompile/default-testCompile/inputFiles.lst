@@ -1,4 +1,8 @@
 /Users/kevin.wu/Documents/exam-ata/atait-java-selenium/SeleniumTest/src/test/java/E2ETest.java
 /Users/kevin.wu/Documents/exam-ata/atait-java-selenium/SeleniumTest/src/test/java/LoginTest.java
+/Users/kevin.wu/Documents/exam-ata/atait-java-selenium/SeleniumTest/src/test/java/pages/CartPage.java
+/Users/kevin.wu/Documents/exam-ata/atait-java-selenium/SeleniumTest/src/test/java/pages/CheckoutCompletePage.java
+/Users/kevin.wu/Documents/exam-ata/atait-java-selenium/SeleniumTest/src/test/java/pages/CheckoutPage.java
+/Users/kevin.wu/Documents/exam-ata/atait-java-selenium/SeleniumTest/src/test/java/pages/CheckoutSummaryPage.java
 /Users/kevin.wu/Documents/exam-ata/atait-java-selenium/SeleniumTest/src/test/java/pages/LoginPage.java
-/Users/kevin.wu/Documents/exam-ata/atait-java-selenium/SeleniumTest/src/test/java/pages/ProductPage.java
+/Users/kevin.wu/Documents/exam-ata/atait-java-selenium/SeleniumTest/src/test/java/pages/ProductsPage.java
